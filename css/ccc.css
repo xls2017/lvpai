@@ -1,0 +1,131 @@
+.box{
+	width: 100%;
+	height: auto;
+	background-color: red;
+	position: relative;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	
+	background-size: 100% auto;
+}
+.fhj{
+	width: .51rem;
+	height: .51rem;
+	background-color: #1FE0B3;
+	position: absolute;
+	top: .64rem;
+	left: .24rem;
+	border-radius: 50%;
+}
+.ywbt{
+	width: 6.63rem;
+	height: 1.21rem;
+	background-color: red;
+	position: absolute;
+	top: 1.89rem;
+	left: .25rem;
+
+}
+.zcbaikapian{
+	width: 5.9rem;
+	height: 7.48rem;
+	background-color: #fff;
+	border-radius: .1rem;
+	position: absolute;
+	top: 2.92rem;
+	right: 0;
+}
+.sxyw{
+	width: 5.26rem;
+	height: .18rem;
+	background-color: red;
+
+}
+.zctouxiang{
+	width: 1.4rem;
+	height: 1.4rem;
+	background-color: red;
+	border-radius: 50%;
+	margin-top: .86rem;
+	margin-left: 2.36rem;
+	overflow: hidden;
+}
+.user-name{
+	width: 4.52em;
+	height: .42em;
+	/* background-color: red; */
+	margin-top: .21rem;
+	margin-left: .59rem;
+	position: relative;
+}
+.user-name input{
+	top: 0;
+	position: absolute;
+	float: left;
+}
+.user-name span{
+	font-size: .2rem;
+	color: #FFD022;
+	font-family: "苹方";
+	float: left;
+	line-height: .2rem;
+	margin-left: .36rem;
+	font-weight: bold;
+}
+.shuruk{
+	width: 4.52rem;   
+	height: .5rem;
+	/* background-color: seagreen; */
+	margin-left: .59rem;
+}
+.shuruk input{
+	display: block;
+	width: 100%;
+	height: 100%;
+	border-radius: .9rem;
+	border-color: #1FE0B3;
+
+}
+.zhuceanniu{
+	width: 2.71rem;
+	height: .73rem;
+	background-color: #1FE0B3;
+	display: block;
+	margin-left: 1.8rem;
+	margin-top: 1.3rem; 
+	border-radius: .9rem;
+	position: relative;
+}
+.querenzhuce{
+	font-size: .25rem;
+	color: #fff;
+	font-family: "苹方";
+	display: block;
+	margin-left: .86rem;
+	margin-top: 0rem;
+	font-weight: bold;
+	line-height: .6rem;
+	
+
+
+}
+/* .yw{
+	font-size: .15rem;
+	color: #fff;
+	font-family: "San Francisco display";
+	display: block;
+	font-weight: bold;
+	margin-left: .86rem;
+	position: absolute;
+	bottom: 0;
+	left: .66rem; */
+
+	
+	
+
+
+}	
+
